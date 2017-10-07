@@ -1,0 +1,48 @@
+{
+  "images": [
+    {
+      "name": "house",
+      "src": "img/house.png"
+    },
+    {
+      "name": "tree",
+      "src": "img/tree.png"
+    },
+    {
+      "name": "land",
+      "src": "img/land.png"
+    },
+    {
+      "name": "bird",
+      "src": "img/bird.png"
+    },
+    {
+      "name": "blood",
+      "src": "img/blood.png"
+    },
+    {
+      "name": "die",
+      "src": "img/die.png"
+    },
+    {
+      "name": "gamebegin",
+      "src": "img/gamebegin.png"
+    },
+    {
+      "name": "gameover",
+      "src": "img/gameover.png"
+    },
+    {
+      "name": "number",
+      "src": "img/number.png"
+    },
+    {
+      "name": "pipe1",
+      "src": "img/pipe1.png"
+    },
+    {
+      "name": "pipe2",
+      "src": "img/pipe2.png"
+    }
+  ]
+}
